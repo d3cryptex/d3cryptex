@@ -87,8 +87,11 @@ I’m always looking for new challenges in this space!
 </h3>
 
 Here’s a little sneak peek of what keeps me entertained:
+![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)
 
-![Reverse Engineering GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZ4bHZhenphZXEza2NqNmRsMG8zc3ZwMjljcmxvYjYwYW80YWZ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif)
+<p align="center">
+  ![GIF](https://i.pinimg.com/originals/7f/7f/28/7f7f2882899755a705a2953b6fcfc263.gif)
+</p>
 
 ---
 
