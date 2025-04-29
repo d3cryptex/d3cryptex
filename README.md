@@ -56,22 +56,28 @@ I love diving into the world of coding and exploring new technologies. My journe
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+
+<h3 align="center"> 
+  🎮 Reverse Engineering Enthusiast
+</h3>
+
+I’m fascinated by the world of **Reverse Engineering** and enjoy breaking down software with tools like:
 ![IDA Custom](https://img.shields.io/badge/IDA-%23FFFFFF?style=for-the-badge&logo=ida)
 ![Cheat Engine](https://img.shields.io/badge/Cheat%20Engine-%2300BFFF?style=for-the-badge&logo=https://img.icons8.com/ios/50/cheat-engine.png&logoColor=white)
 ![OllyDbg](https://img.shields.io/badge/OllyDbg-%23FF6347?style=for-the-badge&logo=ollydbg&logoColor=white)
-
-## 🎮 Reverse Engineering Enthusiast
-
-I’m fascinated by the world of **Reverse Engineering** and enjoy breaking down software with tools like:
-- **IDA Pro**, **OllyDbg**, **Cheat Engine**, **dnSpy**
   
 I’m always looking for new challenges in this space!
 
-## 🌍 Operating Systems
+<h3 align="center"> 
+  🌍 Operating Systems
+</h3>
+
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
-## 📺 Fun Stuff
+<h3 align="center"> 
+  📺 Fun Stuff
+</h3>
 
 Here’s a little sneak peek of what keeps me entertained:
 
