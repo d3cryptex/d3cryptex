@@ -24,29 +24,38 @@ I love diving into the world of coding and exploring new technologies. My journe
 
 ---
 
-## 🛠️ Skills & Technologies
+<h3 align="center"> 
+  🛠️ Skills & Technologies
+</h3>
 
 ### Programming Languages:
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-0096D6?logo=assemblyscript&logoColor=white)
 
 ### Technologies:
-![Django](https://img.shields.io/badge/-Django-092D47?logo=django&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
-![RxJS](https://img.shields.io/badge/-RxJS-28A4E6?logo=reactivex&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)
-![Obsidian](https://img.shields.io/badge/-Obsidian-483B66?logo=obsidian&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 ## 🎮 Reverse Engineering Enthusiast
 
@@ -56,9 +65,8 @@ I’m fascinated by the world of **Reverse Engineering** and enjoy breaking down
 I’m always looking for new challenges in this space!
 
 ## 🌍 Operating Systems
-
-- **Windows 11**: My main working environment for development.
-- **Arch Linux with Hyperland**: For those moments when I need the power and flexibility of Linux!
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 ## 📺 Fun Stuff
 
@@ -68,7 +76,9 @@ Here’s a little sneak peek of what keeps me entertained:
 
 ---
 
-## 🚀 Projects & Contributions
+<h3 align="center"> 
+  🚀 Projects & Contributions
+</h3>
 
 Here are some of my projects and contributions that you can check out:
 
@@ -81,7 +91,10 @@ Feel free to explore, and don't hesitate to star if you find something interesti
 
 ---
 
-## 📚 Currently Learning
+<h3 align="center"> 
+  📚 Currently Learning
+</h3>
+
 I'm currently learning and exploring:
 - **Reverse Engineering** techniques, including **Assembly** and breaking down complex software.
 - New **JavaScript**/**TypeScript** concepts, particularly **RxJS** and **Node.js** back-end development.
