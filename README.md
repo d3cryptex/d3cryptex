@@ -90,7 +90,7 @@ Here’s a little sneak peek of what keeps me entertained:
 
 ![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)
 
-![Binary Rain GIF](https://i.pinimg.com/originals/e2/8d/61/e28d61b0ce1b686bbd9c19b98912101f.gif)
+![Binary Rain GIF](https://i.pinimg.com/originals/3d/d3/c9/3dd3c9936600ba589042697322ab05c9.gif)
 
 ---
 
