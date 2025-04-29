@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm d3cryptex👋</h1>
 
 <p align="center"> 
-  <img src="https://i.pinimg.com/originals/0a/b8/ce/0ab8ce6d94dc4bd5183e953ad6ef797d.gif" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3AxdGZrZ2ZreDdoaDA4cHE3NHBxZGwwZmhrdmltMjJ6dzV4c2gyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NKEt9elQ5cR68/giphy.gif" width="500"/>
 </p>
 
 <p align="center">
@@ -93,15 +93,10 @@ I’m always looking for new challenges in this space!
 
 Here are some of my projects and contributions that you can check out:
 
-- [Erium Project](https://github.com/d3cryptex/erium-project) - A Minecraft server project with 3 distinct game modes.
 - [Message App](https://github.com/d3cryptex/Simple-MessagingApp) - A simple chat application with authentication and local message storage for beginers.
 - [Artworks Gallery](https://github.com/d3cryptex/artworks-gallery) - Just a simple gallery where you can add and manage your pictures.
 - [DLL Injector](https://github.com/d3cryptex/Delusive-Loader) - A DLL injector for Rust, written in C++. It has good security against hacking.
 - [Finance News]() - Cool web app about financial news.Has logging and google auth.Also has api interactions to show actual news and currencies.
-
-<p align="center"> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3AxdGZrZ2ZreDdoaDA4cHE3NHBxZGwwZmhrdmltMjJ6dzV4c2gyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NKEt9elQ5cR68/giphy.gif" width="500"/>
-</p>
   
 Feel free to explore, and don't hesitate to star if you find something interesting!
 
