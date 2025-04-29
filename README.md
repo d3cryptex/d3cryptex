@@ -36,7 +36,6 @@ I love diving into the world of coding and exploring new technologies. My journe
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-0096D6?logo=assemblyscript&logoColor=white)
 
 ### Technologies:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -95,7 +94,10 @@ I’m always looking for new challenges in this space!
 Here are some of my projects and contributions that you can check out:
 
 - [Erium Project](https://github.com/d3cryptex/erium-project) - A Minecraft server project with 3 distinct game modes.
-- [Message App](https://github.com/d3cryptex/message-app) - A chat application with authentication and local message storage.
+- [Message App](https://github.com/d3cryptex/Simple-MessagingApp) - A simple chat application with authentication and local message storage for beginers.
+- [Artworks Gallery](https://github.com/d3cryptex/artworks-gallery) - Just a simple gallery where you can add and manage your pictures.
+- [DLL Injector](https://github.com/d3cryptex/Delusive-Loader) - A DLL injector for Rust, written in C++. It has good security against hacking.
+- [Finance News]() - Cool web app about financial news.Has logging and google auth.Also has api interactions to show actual news and currencies.
 
 <p align="center"> 
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3AxdGZrZ2ZreDdoaDA4cHE3NHBxZGwwZmhrdmltMjJ6dzV4c2gyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NKEt9elQ5cR68/giphy.gif" width="500"/>
@@ -115,10 +117,4 @@ I'm currently learning and exploring:
 
 ---
 
-Thanks for visiting my profile! ⭐
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3cryptex&show_icons=true)](https://github.com/d3cryptex)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=d3cryptex&style=flat-square&color=blue" alt=""/>
-</p>
