@@ -14,37 +14,13 @@
 
 ---
 
-<p align="center"> 
+<h3 align="center"> 
   🧑‍💻 About Me
-</p>
+</h3>
 
 I'm a Web Developer, C++ Developer, and a passionate Reverse Engineering enthusiast.
 
 I love diving into the world of coding and exploring new technologies. My journey has led me to work with a variety of programming languages, including C++, Python, JavaScript, TypeScript, PHP, Assembly, HTML, and CSS. Whether it's building dynamic web applications or reverse engineering software, I thrive on tackling challenges and solving problems.
-
----
-
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WinAPI-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=protonmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-## 🚀 Projects & Contributions
-
-Here are some of my projects and contributions that you can check out:
-
-- [Erium Project](https://github.com/d3cryptex/erium-project) - A Minecraft server project with 3 distinct game modes.
-- [Message App](https://github.com/d3cryptex/message-app) - A chat application with authentication and local message storage.
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3AxdGZrZ2ZreDdoaDA4cHE3NHBxZGwwZmhrdmltMjJ6dzV4c2gyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NKEt9elQ5cR68/giphy.gif" width="500"/>
-Feel free to explore, and don't hesitate to star if you find something interesting!
 
 ---
 
@@ -89,6 +65,19 @@ I’m always looking for new challenges in this space!
 Here’s a little sneak peek of what keeps me entertained:
 
 ![Reverse Engineering GIF](https://media.giphy.com/media/l4pTizqp9IcIjaGoY/giphy.gif)
+
+---
+
+## 🚀 Projects & Contributions
+
+Here are some of my projects and contributions that you can check out:
+
+- [Erium Project](https://github.com/d3cryptex/erium-project) - A Minecraft server project with 3 distinct game modes.
+- [Message App](https://github.com/d3cryptex/message-app) - A chat application with authentication and local message storage.
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3AxdGZrZ2ZreDdoaDA4cHE3NHBxZGwwZmhrdmltMjJ6dzV4c2gyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NKEt9elQ5cR68/giphy.gif" width="500"/>
+Feel free to explore, and don't hesitate to star if you find something interesting!
+
 
 ---
 
