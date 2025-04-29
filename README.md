@@ -82,14 +82,6 @@ I’m always looking for new challenges in this space!
 
 ---
 
-<h3 align="center"> 
-  📺 Fun Stuff
-</h3>
-
-Here’s a little sneak peek of what keeps me entertained:
-
-![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)
-
 <p align="center"> 
   <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width="700"/>
 </p>
@@ -105,9 +97,11 @@ Here are some of my projects and contributions that you can check out:
 - [Erium Project](https://github.com/d3cryptex/erium-project) - A Minecraft server project with 3 distinct game modes.
 - [Message App](https://github.com/d3cryptex/message-app) - A chat application with authentication and local message storage.
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3AxdGZrZ2ZreDdoaDA4cHE3NHBxZGwwZmhrdmltMjJ6dzV4c2gyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NKEt9elQ5cR68/giphy.gif" width="500"/>
+<p align="center"> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3AxdGZrZ2ZreDdoaDA4cHE3NHBxZGwwZmhrdmltMjJ6dzV4c2gyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NKEt9elQ5cR68/giphy.gif" width="500"/>
+</p>
+  
 Feel free to explore, and don't hesitate to star if you find something interesting!
-
 
 ---
 
@@ -118,13 +112,6 @@ Feel free to explore, and don't hesitate to star if you find something interesti
 I'm currently learning and exploring:
 - **Reverse Engineering** techniques, including **Assembly** and breaking down complex software.
 - New **JavaScript**/**TypeScript** concepts, particularly **RxJS** and **Node.js** back-end development.
-
----
-
-### 📫 How to reach me
-
-- Discord: `delusiveuser#xxxx` *(replace with your tag)*
-- GitHub: You're here 😎
 
 ---
 
