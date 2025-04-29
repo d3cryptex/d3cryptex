@@ -56,7 +56,7 @@ I love diving into the world of coding and exploring new technologies. My journe
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![IDA](https://img.shields.io/badge/IDA-%230A74FF?style=for-the-badge&logo=ida&logoColor=white)
+![IDA Custom](https://img.shields.io/badge/IDA-%23FFFFFF?style=for-the-badge&logo=https://downloadlynet.ir/wp-content/uploads/2020/03/IDA-Pro.png)
 
 ## 🎮 Reverse Engineering Enthusiast
 
