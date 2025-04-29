@@ -87,10 +87,11 @@ I’m always looking for new challenges in this space!
 </h3>
 
 Here’s a little sneak peek of what keeps me entertained:
+
 ![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)
 
 <p align="center">
-  ![GIF](https://i.pinimg.com/originals/7f/7f/28/7f7f2882899755a705a2953b6fcfc263.gif)
+  ![Binary Rain GIF](https://i.pinimg.com/originals/7f/7f/28/7f7f2882899755a705a2953b6fcfc263.gif)
 </p>
 
 ---
