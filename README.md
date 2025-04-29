@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm d3cryptex👋</h1>
 
 <p align="center"> 
-  <img src="https://i.pinimg.com/originals/0a/b8/ce/0ab8ce6d94dc4bd5183e953ad6ef797d.gif" width="500"/>
+  <img src="https://i.pinimg.com/originals/23/91/a5/2391a5410336dda4f23978a93ebb6783.gif" width="500"/>
 </p>
 
 <p align="center">
