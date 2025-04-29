@@ -57,6 +57,8 @@ I love diving into the world of coding and exploring new technologies. My journe
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
+---
+
 <h3 align="center"> 
   🎮 Reverse Engineering Enthusiast
 </h3>
@@ -69,6 +71,8 @@ I’m fascinated by the world of **Reverse Engineering** and enjoy breaking down
   
 I’m always looking for new challenges in this space!
 
+---
+
 <h3 align="center"> 
   🌍 Operating Systems
 </h3>
@@ -76,13 +80,15 @@ I’m always looking for new challenges in this space!
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
+---
+
 <h3 align="center"> 
   📺 Fun Stuff
 </h3>
 
 Here’s a little sneak peek of what keeps me entertained:
 
-![Reverse Engineering GIF](https://media.giphy.com/media/l4pTizqp9IcIjaGoY/giphy.gif)
+![Reverse Engineering GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTZ4bHZhenphZXEza2NqNmRsMG8zc3ZwMjljcmxvYjYwYW80YWZ5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10zxDv7Hv5RF9C/giphy.gif)
 
 ---
 
