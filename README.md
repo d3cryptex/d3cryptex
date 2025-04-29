@@ -114,7 +114,7 @@ I'm currently learning and exploring:
 
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3cryptex&show_icons=true)](https://github.com/d3cryptex) -->
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=d3cryptex&include_all_commits=true&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" width="450"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=d3cryptex&include_all_commits=true&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" width="470"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=d3cryptex&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="Top Languages" width="350" />
 </div>
 
