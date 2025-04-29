@@ -52,6 +52,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DelusiveUser&style=flat-square&color=blue" alt=""/>
-  <img src="https://github-readme-stats.vercel.app/api?username=DelusiveUser&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
+  <img src="https://komarev.com/ghpvc/?username=d3cryptex&style=flat-square&color=blue" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api?username=d3cryptex&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
 </p>
