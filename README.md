@@ -62,6 +62,7 @@ I love diving into the world of coding and exploring new technologies. My journe
 </h3>
 
 I’m fascinated by the world of **Reverse Engineering** and enjoy breaking down software with tools like:
+
 ![IDA Custom](https://img.shields.io/badge/IDA-%23FFFFFF?style=for-the-badge&logo=ida)
 ![Cheat Engine](https://img.shields.io/badge/Cheat%20Engine-%2300BFFF?style=for-the-badge&logo=https://img.icons8.com/ios/50/cheat-engine.png&logoColor=white)
 ![OllyDbg](https://img.shields.io/badge/OllyDbg-%23FF6347?style=for-the-badge&logo=ollydbg&logoColor=white)
