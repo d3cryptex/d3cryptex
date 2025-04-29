@@ -14,7 +14,10 @@
 
 ---
 
-## 🧑‍💻 About Me
+<p align="center"> 
+  🧑‍💻 About Me
+</p>
+
 I'm a Web Developer, C++ Developer, and a passionate Reverse Engineering enthusiast.
 
 I love diving into the world of coding and exploring new technologies. My journey has led me to work with a variety of programming languages, including C++, Python, JavaScript, TypeScript, PHP, Assembly, HTML, and CSS. Whether it's building dynamic web applications or reverse engineering software, I thrive on tackling challenges and solving problems.
