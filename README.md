@@ -112,16 +112,6 @@ Feel free to explore, and don't hesitate to star if you find something interesti
 
 ---
 
-<h3 align="center"> 
-  📚 Currently Learning
-</h3>
-
-I'm currently learning and exploring:
-- **Reverse Engineering** techniques, including **Assembly** and breaking down complex software.
-- New **JavaScript**/**TypeScript** concepts, particularly **RxJS** and **Node.js** back-end development.
-
----
-
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3cryptex&show_icons=true)](https://github.com/d3cryptex) -->
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=d3cryptex&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark" width="455"/>
