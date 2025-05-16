@@ -68,7 +68,7 @@ I love diving into the world of coding and exploring new technologies. My journe
 
 ---
 
-<h3 align="center"> 
+<!-- <h3 align="center"> 
   🎮 Reverse Engineering Enthusiast
 </h3>
 
@@ -80,20 +80,13 @@ I’m fascinated by the world of **Reverse Engineering** and enjoy breaking down
   
 I’m always looking for new challenges in this space!
 
----
-
+--- -->
 <h3 align="center"> 
   🌍 Operating Systems
 </h3>
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-
----
-
-<p align="center"> 
-  <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width="700"/>
-</p>
 
 ---
 
