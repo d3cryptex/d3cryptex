@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm d3cryptex👋</h1>
 
 <p align="center"> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3AxdGZrZ2ZreDdoaDA4cHE3NHBxZGwwZmhrdmltMjJ6dzV4c2gyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NKEt9elQ5cR68/giphy.gif" width="500"/>
+  <img src="https://i.pinimg.com/originals/86/4b/fc/864bfc9142bcd919f33f3b7800e6c192.gif" width="500"/>
 </p>
 
 <p align="center">
