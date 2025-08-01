@@ -97,7 +97,7 @@ Here are some of my projects and contributions that you can check out:
 - [Message App](https://github.com/d3cryptex/Simple-MessagingApp) - A simple chat application with authentication and local message storage for beginers.
 - [Artworks Gallery](https://github.com/d3cryptex/artworks-gallery) - Just a simple gallery where you can add and manage your pictures.
 - [DLL Injector](https://github.com/d3cryptex/Delusive-Loader) - A DLL injector for Rust, written in C++. It has good security against hacking.
-- [Finance News]() - Cool web app about financial news.Has logging and google auth.Also has api interactions to show actual news and currencies.
+- [Finance News](https://github.com/d3cryptex/Financial-News-App) - Cool web app about financial news.Has logging and google auth.Also has api interactions to show actual news and currencies.
   
 Feel free to explore, and don't hesitate to star if you find something interesting!
 
