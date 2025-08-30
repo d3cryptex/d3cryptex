@@ -108,4 +108,8 @@ Feel free to explore, and don't hesitate to star if you find something interesti
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=d3cryptex&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" width="350" />
 </div>
 
+<div align="center">
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=d3cryptex&theme=github_dark&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)
+</div>
+
 
