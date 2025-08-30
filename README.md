@@ -129,4 +129,6 @@ Feel free to explore, and don't hesitate to star if you find something interesti
   🚀 Friends & Collaborators  
 </h3>
 
-[![edokeq1](https://img.shields.io/badge/edokeq1-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/edokeq1)  
+<div align="center">
+  [![edokeq1](https://img.shields.io/badge/edokeq1-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/edokeq1)  
+</div>
