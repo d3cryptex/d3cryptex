@@ -110,10 +110,6 @@ Feel free to explore, and don't hesitate to star if you find something interesti
 
 ---
 
-<h3 align="center"> 
-  🏆 Achievements
-</h3>
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=d3cryptex&theme=onestar&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" />
 </div>
