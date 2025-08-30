@@ -109,7 +109,7 @@ Feel free to explore, and don't hesitate to star if you find something interesti
 </div>
 
 <div align="center">
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=d3cryptex&theme=github_dark&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=d3cryptex&theme=onestar&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)
 </div>
 
 
