@@ -1,98 +1,67 @@
-<h1 align="center">Hello, I'm d3cryptex👋</h1>
+<div align="center">
 
-<p align="center"> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3AxdGZrZ2ZreDdoaDA4cHE3NHBxZGwwZmhrdmltMjJ6dzV4c2gyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NKEt9elQ5cR68/giphy.gif" width="500"/>
-</p>
+<img width="100%" src="https://ghrb.waren.build/banner?header=%21%5Bgithub%5D+d3cryptex&subheader=Front-end+%7C+Reverse+Engineering+Developer&bg=242938-242938&color=FFFFFF&subheadercolor=787878&headerfont=Montserrat&subheaderfont=Kinewave&watermarkpos=bottom-right" />
+
+<br>
 
 <p align="center">
   <a href="https://discord.com/users/6275" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="mailto:danilobocuk@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/discord-badge?style=flat-square&logo=Discord&color=%23242938
+    "/>
   </a>
   <a href="https://t.me/d3cryptex" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/telegram-badge?style=flat-square&logo=Telegram&color=%23242938
+    "/>
+  </a>
+  <a href="https://linkedin.com/in/danilo-boichuk" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-badge?style=flat-square&logo=Linkedin&color=%23242938
+    "/>
+  </a>
+  <a href="mailto:danilobocuk@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-badge?style=flat-square&logo=Gmail&color=%23242938
+    "/>
   </a>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=242938" />
+
 
 <h3 align="center"> 
-  🧑‍💻 About Me
+  About Me
 </h3>
 
 I'm a Web Developer and a passionate Reverse Engineering enthusiast.
 
 I love diving into the world of coding and exploring new technologies. My journey has led me to work with a variety of programming languages, including C++, Python, JavaScript, TypeScript, HTML, and CSS. Whether it's building dynamic web applications or reverse engineering software, I thrive on tackling challenges and solving problems.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=242938" />
 
 <h3 align="center"> 
-  🛠️ Skills & Technologies
+  Stack
 </h3>
 
-### Main Languages:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+**Main**
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,angular,nodejs,mysql,mongo,jest" />
 
-### Sub Languages:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Cybersecurity & Reverse Engineering**
+<br>
+<img src="https://skillicons.dev/icons?i=cpp,python,bash,kubernetes,docker" />
 
-### Frameworks:
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+<i>I also use ollydbg, x64dbg, ida64, dnSpy for reverse</i>
 
-### Databases:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+**GameDev**
+<br>
+<img src="https://skillicons.dev/icons?i=godot,blender" />
 
-### Other Technologies:
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=windows,arch,obsidian" />
 
-### Tools:
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=242938" />
 
 <h3 align="center"> 
-  🎮 Reverse Engineering Enthusiast
-</h3>
-
-I’m fascinated by the world of **Reverse Engineering** and enjoy breaking down software with tools like:
-
-![IDA Custom](https://img.shields.io/badge/IDA-%23FFFFFF?style=for-the-badge&logo=ida)
-![Cheat Engine](https://img.shields.io/badge/Cheat%20Engine-%2300BFFF?style=for-the-badge&logo=https://img.icons8.com/ios/50/cheat-engine.png&logoColor=white)
-![OllyDbg](https://img.shields.io/badge/OllyDbg-%23FF6347?style=for-the-badge&logo=ollydbg&logoColor=white)
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-  
---- 
-
-<h3 align="center"> 
-  🌍 Operating Systems
-</h3>
-
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-
----
-
-<h3 align="center"> 
-  🚀 Projects & Contributions
+  Projects
 </h3>
 
 Here are some of my projects and contributions that you can check out:
@@ -104,28 +73,39 @@ Here are some of my projects and contributions that you can check out:
   
 Feel free to explore, and don't hesitate to star if you find something interesting!
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=242938" />
 
-<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3cryptex&show_icons=true)](https://github.com/d3cryptex) -->
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=d3cryptex&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark" width="455"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=d3cryptex&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" width="350" />
-</div>
-
----
+<br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=d3cryptex&theme=onestar&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" />
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=d3cryptex&theme=tokyonight" alt="Stats Card" width="300" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=d3cryptex&theme=tokyonight&utcOffset=+2" alt="Productive Time Card" width="300" />
+  <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d3cryptex&theme=tokyonight" alt="Top Languages" width="300" />
 </div>
 
----
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=242938" />
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=d3cryptex&theme=tokyo-night" />
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=242938" />
 
 <h3 align="center"> 
-  🚀 Friends & Collaborators  
+  Other  
 </h3>
 
 <div align="center">
-  <a href="https://github.com/edokeq1" target="_blank">
-    <img src="https://img.shields.io/badge/edokeq1-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
-  </a>
+    <img src="https://img.shields.io/badge/edokeq-badge?style=flat-square&logo=Github&color=%23242938
+    "/>
 </div>
+
+<br>
+
+<img src="https://count.getloli.com/@:mye?theme=rule34" alt=":mye" />
