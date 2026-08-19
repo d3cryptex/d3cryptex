@@ -78,14 +78,10 @@ Feel free to explore, and don't hesitate to star if you find something interesti
 <br>
 
 <div align="center">
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=d3cryptex&theme=tokyonight" alt="Stats Card" width="250" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=d3cryptex&theme=tokyonight&utcOffset=+2" alt="Productive Time Card" width="250" />
-  <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d3cryptex&theme=tokyonight" alt="Top Languages" width="250" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=d3cryptex&theme=tokyonight" width="32%" alt="GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d3cryptex&theme=tokyonight" width="32%" alt="Top languages by repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=d3cryptex&theme=tokyonight" width="32%" alt="Top languages by commits" />
 </div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=242938" />
 
 <br>
 
@@ -104,3 +100,8 @@ Feel free to explore, and don't hesitate to star if you find something interesti
 <div align="center">
   <img src="https://img.shields.io/badge/edokeq-242938?style=flat-square&amp;logo=github&amp;logoColor=white" alt="edokeq" />
 </div>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=d3cryptex&label=Profile%20views&color=242938&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/d3cryptex?label=Followers&style=flat-square&color=242938&labelColor=242938" />
