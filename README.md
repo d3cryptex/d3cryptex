@@ -78,9 +78,9 @@ Feel free to explore, and don't hesitate to star if you find something interesti
 <br>
 
 <div align="center">
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=d3cryptex&theme=tokyonight" alt="Stats Card" width="300" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=d3cryptex&theme=tokyonight&utcOffset=+2" alt="Productive Time Card" width="300" />
-  <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d3cryptex&theme=tokyonight" alt="Top Languages" width="300" />
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=d3cryptex&theme=tokyonight" alt="Stats Card" width="200" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=d3cryptex&theme=tokyonight&utcOffset=+2" alt="Productive Time Card" width="200" />
+  <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d3cryptex&theme=tokyonight" alt="Top Languages" width="200" />
 </div>
 
 <br>
