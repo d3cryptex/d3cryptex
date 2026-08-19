@@ -4,24 +4,20 @@
 
 <br>
 
-<p align="center">
-  <a href="https://discord.com/users/6275" target="_blank">
-    <img src="https://img.shields.io/badge/discord-badge?style=flat-square&logo=Discord&color=%23242938
-    "/>
+<div align="center">
+  <a href="https://discord.com/users/6275">
+    <img src="https://img.shields.io/badge/Discord-242938?style=flat-square&amp;logo=discord&amp;logoColor=white" alt="Discord" />
   </a>
-  <a href="https://t.me/d3cryptex" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-badge?style=flat-square&logo=Telegram&color=%23242938
-    "/>
+  <a href="https://t.me/d3cryptex">
+    <img src="https://img.shields.io/badge/Telegram-242938?style=flat-square&amp;logo=telegram&amp;logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://linkedin.com/in/danilo-boichuk" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-badge?style=flat-square&logo=Linkedin&color=%23242938
-    "/>
+  <a href="https://linkedin.com/in/danilo-boichuk">
+    <img src="https://img.shields.io/badge/LinkedIn-242938?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:danilobocuk@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-badge?style=flat-square&logo=Gmail&color=%23242938
-    "/>
+  <a href="mailto:danilobocuk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-242938?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Gmail" />
   </a>
-</p>
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=242938" />
 
@@ -30,9 +26,13 @@
   About Me
 </h3>
 
-I'm a Web Developer and a passionate Reverse Engineering enthusiast.
+I'm a software developer focused on web development, game development and reverse engineering.
 
-I love diving into the world of coding and exploring new technologies. My journey has led me to work with a variety of programming languages, including C++, Python, JavaScript, TypeScript, HTML, and CSS. Whether it's building dynamic web applications or reverse engineering software, I thrive on tackling challenges and solving problems.
+I build full-stack applications with JavaScript, TypeScript, Node.js and Angular, and work with databases such as MySQL and MongoDB. I also develop my game in Godot Engine and create 3D assets in Blender for that, and enjoy designing systems, tools, and gameplay mechanics.
+
+Reverse engineering and software security are a major part of my interests. I work with C++, Python, Windows internals, debugging tools, DLL injection, and binary analysis. I like understanding how software works under the hood — from application architecture to low-level code and protection mechanisms.
+
+Outside of development, I keep exploring new technologies, game design, security research, and performance-oriented programming.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=242938" />
 
@@ -102,10 +102,5 @@ Feel free to explore, and don't hesitate to star if you find something interesti
 </h3>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/edokeq-badge?style=flat-square&logo=Github&color=%23242938
-    "/>
+  <img src="https://img.shields.io/badge/edokeq-242938?style=flat-square&amp;logo=github&amp;logoColor=white" alt="edokeq" />
 </div>
-
-<br>
-
-<img src="https://count.getloli.com/@:mye?theme=rule34" alt=":mye" />
